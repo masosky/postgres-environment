@@ -1,4 +1,4 @@
-# Postgres SQl Environment
+# Postgres SQL Environment
 Docker Compose with Postgres and Adminer
 
 ## Scripts

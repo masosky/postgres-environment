@@ -1,0 +1,28 @@
+{
+  "name": "postgres-environment",
+  "version": "1.0.0",
+  "description": "Postgres Environment",
+  "main": "queries.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/masosky/postgres-environment.git"
+  },
+  "keywords": [
+    "Postgres",
+    "Adminer",
+    "Docker"
+  ],
+  "author": "Xavier Mas Leszkiewicz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/masosky/postgres-environment/issues"
+  },
+  "homepage": "https://github.com/masosky/postgres-environment#readme",
+  "dependencies": {
+    "knex": "^0.21.2",
+    "pg": "^8.3.0"
+  }
+}

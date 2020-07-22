@@ -1,0 +1,43 @@
+# Ignore installed npm related files
+node_modules/**/*
+*/node_modules/**/*
+npm-debug.log
+
+
+# Ignore all logfiles and tempfiles.
+log/**/*
+tmp/**/*
+*.log
+
+# Ignore OSX .DS_Store
+.DS_Store
+
+
+# Ignore compiled files
+dist
+
+# Ignore sublime project files
+*.sublime-project
+*.sublime-workspace
+
+# Ignore IDE settings
+.idea
+.vscode
+
+# Any directory starting with ignore_
+ignore_*
+
+# Ignore .env file
+.env
+.env.*
+
+
+# Ignore clickhouse volume
+clickhouse/volume
+
+#Ignore Coverage Folder and nyc output
+coverage
+.nyc_output
+
+# File uploads folder
+uploads

@@ -14,6 +14,7 @@ http://localhost:8080
 user: postgres
 password: password
 db: test
+server: db_postgres
 ```
 
 ## Quit
